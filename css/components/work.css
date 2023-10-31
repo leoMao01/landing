@@ -1,0 +1,15 @@
+.card > img {
+  width: 150px;
+}
+
+.card{
+  padding: 20px;
+  margin: 15px;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.container h1{
+  text-align: center;
+}
